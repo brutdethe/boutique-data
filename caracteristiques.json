@@ -6,52 +6,58 @@
         }
     },
     {
-        "name": "capacité",
+        "name": "impression",
         "label": {
-            "en": "Capacity",
-            "fr": "Capacité"
+            "en": "Print",
+            "fr": "Impression"
         }
     },
     {
-        "name": "producteur",
+        "name": "technique",
         "label": {
-            "fr": "Producteur",
-            "en": "Producer"
+            "fr": "Technique",
+            "en": "Technique"
         }
     },
     {
-        "name": "type",
+        "name": "materiaux",
         "label": {
-            "fr": "Type",
-            "en": "Type"
+            "fr": "Matériaux",
+            "en": "Materials"
         }
     },
     {
-        "name": "altitude",
+        "name": "finition",
         "label": {
-            "fr": "Altitude",
-            "en": "Elevation"
+            "fr": "Finition",
+            "en": "Finish"
         }
     },
     {
-        "name": "lieu",
+        "name": "type de papier",
         "label": {
-            "fr": "Lieu",
-            "en": "Location"
+            "fr": "Type de papier",
+            "en": "Type of paper"
         }
     },
     {
-        "name": "village",
+        "name": "verso",
         "label": {
-            "fr": "Village",
-            "en": "Village"
+            "fr": "Verso",
+            "en": "Card back"
         }
     },
     {
-        "name": "cultivar",
+        "name": "information",
         "label": {
-            "fr": "Cultivar",
-            "en": "Cultivar"
+            "fr": "Information",
+            "en": "Information"
+        }
+             {
+        "name": "envoi",
+        "label": {
+            "fr": "Envoi",
+            "en": "Shipping"
         }
     }
 ]
