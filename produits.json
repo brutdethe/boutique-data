@@ -737,79 +737,6 @@
         ]
     },
     {
-        "id": "manontasA8",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-09-17",
-        "création": "2023-09-17",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 15,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
-        "capacité": "40 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "manon_tasse_A8-a.jpg",
-            "manon_tasse_A8-b.jpg"
-        ]
-    },
-    {
-        "id": "jetheiere1",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2021-02-27",
-        "création": "2022-02-27",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
-        },
-        "prix": 142,
-        "poids": 0.12,
-        "capacité": "80 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_1-a.jpg",
-            "jerome_theiere_1-b.jpg",
-            "jerome_theiere_1-c.jpg",
-            "jerome_theiere_1-d.jpg",
-            "jerome_theiere_1-e.jpg"
-        ]
-    },
-    {
-        "id": "jetheiere2",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2021-02-22",
-        "création": "2022-02-22",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
-            "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
-        },
-        "prix": 132,
-        "poids": 0.12,
-        "capacité": "100 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_2-a.jpg",
-            "jerome_theiere_2-b.jpg",
-            "jerome_theiere_2-c.jpg",
-            "jerome_theiere_2-d.jpg",
-            "jerome_theiere_2-e.jpg"
-        ]
-    },
-    {
         "id": "manontasA5",
         "titre": {
             "en": "茶杯 - CháBēi (small tea bowl)",
@@ -853,6 +780,29 @@
         "photos": [
             "manon_tasse_A7-a.jpg",
             "manon_tasse_A7-b.jpg"
+        ]
+    },
+    {
+        "id": "manontasA8",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2023-09-17",
+        "création": "2023-09-17",
+        "catégorie": "manon-clouzeau",
+        "description": {
+            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
+        },
+        "prix": 15,
+        "dimension": "7 cm x 3 cm",
+        "poids": 0.035,
+        "capacité": "40 ml",
+        "quantité_produite": 1,
+        "photos": [
+            "manon_tasse_A8-a.jpg",
+            "manon_tasse_A8-b.jpg"
         ]
     },
     {
@@ -1239,6 +1189,56 @@
         "photos": [
             "jerome_bol_A1-a.jpg",
             "jerome_bol_A1-b.jpg"
+        ]
+    },
+    {
+        "id": "jetheiere1",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2021-02-27",
+        "création": "2022-02-27",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+        },
+        "prix": 142,
+        "poids": 0.12,
+        "capacité": "80 ml",
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_theiere_1-a.jpg",
+            "jerome_theiere_1-b.jpg",
+            "jerome_theiere_1-c.jpg",
+            "jerome_theiere_1-d.jpg",
+            "jerome_theiere_1-e.jpg"
+        ]
+    },
+    {
+        "id": "jetheiere2",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-02-22",
+        "création": "2022-02-22",
+        "catégorie": "je-le-potier",
+        "description": {
+            "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
+            "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
+        },
+        "prix": 132,
+        "poids": 0.12,
+        "capacité": "100 ml",
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_theiere_2-a.jpg",
+            "jerome_theiere_2-b.jpg",
+            "jerome_theiere_2-c.jpg",
+            "jerome_theiere_2-d.jpg",
+            "jerome_theiere_2-e.jpg"
         ]
     },
     {
