@@ -1012,28 +1012,6 @@
         ]
     },
     {
-        "id": "manongaA1",
-        "titre": {
-            "en": "蓋碗 - GàiWǎn",
-            "fr": "蓋碗 - GàiWǎn"
-        },
-        "modification": "2021-09-08",
-        "création": "2021-09-08",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "Glazed GàiWǎn. Unique piece.",
-            "fr": "GàiWǎn émaillé. Pièce unique."
-        },
-        "prix": 50.00,
-        "poids": 0.093,
-        "capacité": 70,
-        "quantité_produite": 1,
-        "photos": [
-            "manon_gaiwan_A1-a.jpg",
-            "manon_gaiwan_A1-b.jpg"
-        ]
-    },
-    {
         "id": "manongaA3",
         "titre": {
             "en": "蓋碗 - GàiWǎn",
