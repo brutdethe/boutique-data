@@ -445,31 +445,6 @@
         ]
     },
     {
-        "id": "th4",
-        "titre": {
-            "en": "西施 - XīShī teapot",
-            "fr": "Théière 西施 - XīShī"
-        },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
-        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-        "catégorie": "chahu",
-        "description": {
-            "en": "This 宜興-YíXìng red clay teapot of 西施-XīShī shape made in 半手工-BànShǒuGōng mode, i.e. semi-manually, using molds.",
-            "fr": "Cette théière en argile rouge du 宜興 - YíXìng de forme 西施 - XīShī fabriquée en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules."
-        },
-        "prix": 55,
-        "poids": 0.185,
-        "capacité": "200 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_4-a.jpg",
-            "theiere_4-b.jpg",
-            "theiere_4-c.jpg",
-            "theiere_4-d.jpg"
-        ]
-    },
-    {
         "id": "th9",
         "titre": {
             "en": "三足乳鼎 - SānZúRǔDǐng teapot",
@@ -940,29 +915,6 @@
         "photos": [
             "manon_tasse_A31-a.jpg",
             "manon_tasse_A31-b.jpg"
-        ]
-    },
-    {
-        "id": "manontasA32",
-        "titre": {
-            "en": "茶杯 - CháBēi (small tea bowl)",
-            "fr": "茶杯 - CháBēi (petit bol à thé)"
-        },
-        "modification": "2023-09-17",
-        "création": "2023-09-17",
-        "catégorie": "manon-clouzeau",
-        "description": {
-            "en": "Ceramic 茶杯 - CháBēi. Unique piece.",
-            "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
-        },
-        "prix": 15,
-        "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
-        "capacité": "40 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "manon_tasse_A32-a.jpg",
-            "manon_tasse_A32-b.jpg"
         ]
     },
     {
