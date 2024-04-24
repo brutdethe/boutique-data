@@ -136,33 +136,6 @@
         ]
     },
     {
-        "id": "baiA1",
-        "titre": {
-            "en": "白茶 - BáiChá",
-            "fr": "白茶 - BáiChá"
-        },
-        "modification": "2023-05-22",
-        "création": "2023-05-22",
-        "catégorie": "cha",
-        "description": {
-            "en": "Mr. 李 - Lǐ grows his tea bushes and makes tea for his personal use. This 白茶 - BáiChá tea is made from an endemic cultivar from the village of 三峡 - SānXiá, the 青心柑种 - Qīng Xīn Gān Zhǒng, and a hybrid, the 金萱 - Jīn Xuān. He agreed to sell us a very small amount, we find this tea fine and discreet, with subtle and soothing scents.",
-            "fr": "Monsieur 李 - Lǐ fait pousser ses théiers et fabrique du thé pour son usage personnel. Ce thé 白茶 - BáiChá est issu d’un cultivar endémique du village de 三峡 - SānXiá, le 青心柑种 - Qīng Xīn Gān Zhǒng, et d’un hybride, le 金萱 - Jīn Xuān. Il a accepté de nous en vendre une toute petite quantité, nous le trouvons fin et discret, aux parfums subtils et apaisants."
-        },
-        "prix": 18,
-        "poids": 0.0375,
-        "quantité_produite": 1,
-        "producteur": "Monsieur 李 - Lǐ",
-        "récolte": "automne 2021",
-        "type": "白茶 - BáiChá",
-        "village": "三峡 - SānXiá",
-        "province": "台灣 - TáiWān",
-        "photos": [
-            "BaiCha-LiGuanKuan_1-a.jpg",
-            "BaiCha-LiGuanKuan_1-a.jpg",
-            "conserve_1-c.jpg"
-        ]
-    },
-    {
         "id": "baiA2",
         "titre": {
             "en": "白鹿白茶 - BáiLù BáiChá",
