@@ -108,7 +108,7 @@
         },
         "prix": 20.00,
         "quantité_produite": 70,
-        "poids": 0.025,
+        "poids": 0.125,
         "photos": [
             "gongfucha_affiches_a.jpg"
         ]
@@ -128,7 +128,7 @@
         },
         "prix": 45.00,
         "quantité_produite": 77,
-        "poids": 0.025,
+        "poids": 0.125,
         "photos": [
             "serigraphie_b2t_a.jpg",
             "serigraphie_b2t_b.jpg",
@@ -149,7 +149,7 @@
             "fr": "Le 白鹿白茶 - BáiLù BáiChá provient de la famille des Lauracées ce n'est pas du thé et il ne contient pas de caféine. Il est produit à 白鹿村 - BáiLùCūn dans le 四川 - SìChuān à environ 850 mètres d'altitude. Ce petit village compte un peu plus de 1 300 habitants sans aucune industrie. C'est une infusion que la population locale apprécie depuis un millier d'années. L'arbre pousse dans la montagne 白鹿 - BáiLù et dégage le parfum unique des plantes lauracées. Son infusion est rouge vif et a un retour sucré dans la bouche. Il est notamment indiqué pour les personnes habituées à manger des plats épicés car il a pour effet de nourrir la rate et l’estomac."
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 10,
         "producteur": {
             "fr": "Monsieur 李 - Lǐ",
@@ -158,7 +158,7 @@
         "récolte": "printemps 2023",
         "type": "",
         "village": "白鹿村 -  BáiLùCūn",
-        "altitude": "850 m",
+        "altitude": "850",
         "province": "四川 - SìChuān",
         "photos": [
             "BaiLu-BaiCha_1-a.jpg",
@@ -179,7 +179,7 @@
             "fr": "Ce 綠茶 - LǜChá de printemps est l'un des deux principaux thés verts taïwanais. C'est un 碧螺春 - BìLuóChūn réalisé à partir du cultivar endémique de 三峽 - SānXiá, le 青心柑仔 - QīngXīn GānZǐ qui donne une identité aromatique unique. La famille de Mr.李- Lǐ produit des thés artisanaux de qualité depuis trois générations."
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 10,
         "producteur": {
             "fr": "Monsieur  李- Lǐ",
@@ -209,7 +209,7 @@
             "fr": "Ce 綠茶 - LǜChá est produit dans le province du 四川 - SìChuān en Chine et plus exactement au  village de 拳石 -  QuánShí à 900m d'altitude. Le jardin de thé de M. 童 - Tóng est une forêt de thé, avec de nombreux vieux théiers. Ce thé vert a été cueilli le 5 avril de cette année. C'est pourquoi il a été nommé 清明甘露 - QīngMíng GānLù. QingMing est l'un des vingt-quatre termes solaires et aussi le jour du culte des ancêtres. GanLu signifie:le miellat. M. 童 - Tóng a réalisé ce thé pour commémorer ses ancêtres"
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 10,
         "producteur": {
             "fr": "Monsieur  童 - Tóng",
@@ -239,7 +239,7 @@
             "fr": "Ce 綠茶 - LǜChá est produit dans le province du 四川 - SìChuān en Chine et plus exactement au village de 白鹿村 -  BáiLùCūn qui se trouve à environ 850 mètres d'altitude. Il ne couvre qu'une superficie de 5,8 kilomètres carrés et compte un peu plus de 1 300 habitants. Aucune industrie, son environnement est donc naturellement excellent et propice à la production agricole."
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 10,
         "producteur": {
             "fr": "Monsieur  李 - Lǐ",
@@ -268,7 +268,7 @@
             "fr": "Ce 红茶 - HóngChá aux notes de miel caractéristiques est réalisé avec le cultivar endémique 青心柑仔 - QīngXīnGānZǐ de 三峡 - SānXiá. La famille de Monsieur 李 - Lǐ cultive le thé depuis trois générations. Il possède deux jardins de thé à 三峡 - SānXiá, à la périphérie de Taipei et à 南投 - Nántóu, dans le centre de 臺灣 - Táiwān. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la préparation du thé."
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 10,
         "producteur": {
             "fr": "Monsieur 李 - Lǐ",
@@ -298,7 +298,7 @@
             "fr": "Ce 高山茶 - GāoShānChá (thé de haute montagne) est l'un des thés 烏龍 - WūLóng emblématiques de 臺灣 - Táiwān. 梨山 - LíShān est situé à 臺中市 - TáiZhōng a une altitude moyenne de 2000 mètres. Il n'y a que deux récoltes par an. En raison de la grande différence de température entre le jour et la nuit, le thé pousse lentement et les feuilles sont plus épaisses. Dans les montagnes avec les nuages et la brume persistante, la durée d'ensoleillement est courte ce qui réduit la teneur en catéchines et donc l'astringence."
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 2,
         "producteur": {
             "fr": "Monsieur 李 - Lǐ",
@@ -313,7 +313,6 @@
             "LiShan-GaoShan_1-a.jpg",
             "LiShan-GaoShan_1-b.jpg"
         ]
-
     },
     {
         "id": "wuA2",
@@ -329,7 +328,7 @@
             "fr": "Le 凍頂烏龍 - DòngDǐng est l'un des deux principaux thés 烏龍 - WūLóng taïwanais. Monsieur 李 - Lǐ le cultive dans la montagne 阿里山 - ĀLǐShān et le produit selon des méthodes traditionnelles. Ce thé nous transporte dans les souvenirs des salons de thé de 臺灣 - Táiwān dans les années 80'. La famille de Monsieur 李 - Lǐ cultive le thé depuis trois générations. Je le connais depuis dix ans, et il a toujours fidèlement conservé son sérieux et sa sincérité dans la fabrication de ses thés."
         },
         "prix": 15,
-        "poids": 0.025,
+        "poids": 0.125,
         "quantité_produite": 9,
         "producteur": {
             "fr": "Monsieur 李 - Lǐ",
@@ -359,7 +358,7 @@
             "fr": "GàiWǎn basique en porcelaine blanche."
         },
         "prix": 8,
-        "poids": 0.12,
+        "poids": 0.22,
         "capacité": "70 ml",
         "quantité_produite": 8,
         "photos": [
@@ -381,7 +380,7 @@
             "fr": "Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
         },
         "prix": 45,
-        "poids": 0.45,
+        "poids": 0.55,
         "capacité": "110 ml",
         "quantité_produite": 16,
         "photos": [
@@ -432,7 +431,7 @@
             "fr": "Cette théière de forme 三足乳鼎 - SānZúRǔDǐng fabriquée à 臺灣 - Táiwān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules. Elle porte une inscription liée à la culture bouddhiste : 觀自在 - GuānZìZài qui invite à être en paix avec la nature."
         },
         "prix": 80,
-        "poids": 0.135,
+        "poids": 0.235,
         "capacité": "220 ml",
         "quantité_produite": 1,
         "photos": [
@@ -459,7 +458,7 @@
         },
         "prix": 20,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
+        "poids": 0.125,
         "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
@@ -483,7 +482,7 @@
         },
         "prix": 20,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
+        "poids": 0.125,
         "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
@@ -507,7 +506,7 @@
         },
         "prix": 20,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
+        "poids": 0.125,
         "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
@@ -531,7 +530,7 @@
         },
         "prix": 20,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
+        "poids": 0.125,
         "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
@@ -555,7 +554,7 @@
         },
         "prix": 20,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.025,
+        "poids": 0.125,
         "capacité": "30 ml",
         "quantité_produite": 1,
         "photos": [
@@ -579,7 +578,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -602,7 +601,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -625,7 +624,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -648,7 +647,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -671,7 +670,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -694,7 +693,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -717,7 +716,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -740,7 +739,7 @@
         },
         "prix": 15,
         "dimension": "7 cm x 3 cm",
-        "poids": 0.035,
+        "poids": 0.135,
         "capacité": "40 ml",
         "quantité_produite": 1,
         "photos": [
@@ -762,7 +761,7 @@
             "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 50.00,
-        "poids": 0.093,
+        "poids": 0.193,
         "capacité": 70,
         "quantité_produite": 1,
         "photos": [
@@ -784,7 +783,7 @@
             "fr": "茶杯 - CháBēi en céramique, 1250°C. Pièce unique."
         },
         "prix": 18,
-        "poids": 0.070,
+        "poids": 0.170,
         "capacité": "50 ml",
         "quantité_produite": 28,
         "photos": [
@@ -806,7 +805,7 @@
             "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
         },
         "prix": 142,
-        "poids": 0.12,
+        "poids": 0.22,
         "capacité": "80 ml",
         "quantité_produite": 1,
         "photos": [
@@ -831,7 +830,7 @@
             "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
         },
         "prix": 132,
-        "poids": 0.12,
+        "poids": 0.22,
         "capacité": "100 ml",
         "quantité_produite": 1,
         "photos": [
@@ -856,7 +855,7 @@
             "fr": "Pièce unique. Petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide."
         },
         "prix": 132,
-        "poids": 0.13,
+        "poids": 0.23,
         "capacité": "100 ml",
         "quantité_produite": 1,
         "photos": [
@@ -882,7 +881,7 @@
             "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
         },
         "prix": 142,
-        "poids": 0.12,
+        "poids": 0.22,
         "capacité": "80 ml",
         "quantité_produite": 1,
         "photos": [
@@ -907,7 +906,7 @@
             "fr": "GàiWǎn en porcelaine blanche. Fabriqué à Montpellier"
         },
         "prix": 60.00,
-        "poids": 0.215,
+        "poids": 0.315,
         "capacité": "90 ml",
         "quantité_produite": 3,
         "photos": [
@@ -931,7 +930,7 @@
             "fr": "Théière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main à Montpellier. Pièce unique."
         },
         "prix": 200,
-        "poids": 0.235,
+        "poids": 0.335,
         "capacité": "100 ml",
         "quantité_produite": 1,
         "photos": [
