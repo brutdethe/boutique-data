@@ -390,32 +390,7 @@
             "set-de-voyage_1-d.jpg"
         ]
     },
-    {
-        "id": "th3",
-        "titre": {
-            "en": "遍訪古 - BiànFǎngGǔ teapot",
-            "fr": "Théière 遍訪古 - BiànFǎngGǔ"
-        },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
-        "catégorie": "chahu",
-        "description": {
-            "en": "This teapot has a 遍訪古 - BiànFǎngGǔ shape. It was made from 黑金鋼沙 - HēiJīnGāngShā, a mix of two clays: 紫泥 - ZǐNí and 寶藍朱泥 - BǎolánZhūNí.",
-            "fr": "Cette théière est de forme 遍訪古 - BiànFǎngGǔ. Elle a été fabriquée à partir d'un mélange appelé 黑金鋼沙 - HēiJīnGāngShā, composé de deux argiles : 紫泥 - ZǐNí et 寶藍朱泥 - BǎolánZhūNí."
-        },
-        "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-        "producteur": "YanLi",
-        "prix": 89,
-        "poids": 0.18,
-        "capacité": "130 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_3-a.jpg",
-            "theiere_3-b.jpg",
-            "theiere_3-c.jpg",
-            "theiere_3-d.jpg"
-        ]
-    },
+
     {
         "id": "th9",
         "titre": {
