@@ -581,31 +581,6 @@
         ]
     },
     {
-        "id": "jetheiere1",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2021-02-27",
-        "création": "2022-02-27",
-        "catégorie": "je-le-potier",
-        "description": {
-            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
-        },
-        "prix": 142,
-        "poids": 0.22,
-        "capacité": "80 ml",
-        "quantité_produite": 1,
-        "photos": [
-            "jerome_theiere_1-a.jpg",
-            "jerome_theiere_1-b.jpg",
-            "jerome_theiere_1-c.jpg",
-            "jerome_theiere_1-d.jpg",
-            "jerome_theiere_1-e.jpg"
-        ]
-    },
-    {
         "id": "jetheiere2",
         "titre": {
             "en": "Small teapot in raw clay",
